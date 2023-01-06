@@ -28,8 +28,13 @@ import {filterImageFromURL, deleteLocalFiles} from './util/util';
 ```
 
 ### Deploying your system
+run `npm run build`
 
 Follow the process described in the course to `eb init` a new application and `eb create` a new environment to deploy your image-filter service! Don't forget you can use `eb deploy` to push changes.
+
+### 
+Link to the endpoint URL for a running elastic beanstalk deployment :
+image-filter-dev22222.us-east-1.elasticbeanstalk.com 
 
 ## Stand Out (Optional)
 
