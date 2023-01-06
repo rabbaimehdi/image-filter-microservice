@@ -42,12 +42,10 @@ Link to the endpoint URL for a running elastic beanstalk deployment :
 
 ![Initial image !](/deployment_screenshots/initialimage.jpg)
 
-<https://img.freepik.com/photos-gratuite/prise-vue-au-grand-angle-seul-arbre-poussant-sous-ciel-assombri-pendant-coucher-soleil-entoure-herbe_181624-22807.jpg>
 #### Filtered image
 
 ![Filtered image !](/deployment_screenshots/filteredimage.jpg)
 
-<http://image-filter-dev22222.us-east-1.elasticbeanstalk.com/filteredimage?image_url=https://img.freepik.com/photos-gratuite/prise-vue-au-grand-angle-seul-arbre-poussant-sous-ciel-assombri-pendant-coucher-soleil-entoure-herbe_181624-22807.jpg>
 ## Stand Out (Optional)
 
 ### Refactor the course RESTapi
