@@ -50,7 +50,7 @@ const util_1 = require("./util/util");
             });
         }
         catch (error) {
-            res.status(422).send(`Unable to process ${image_url}`);
+            res.status(500).send(`Unable to process ${image_url}`);
             console.error(error);
         }
     }));
